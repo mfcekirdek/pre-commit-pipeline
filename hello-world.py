@@ -1,3 +1,3 @@
 if __name__ == "__main__":
-    i=3+5
+    i = 1 + 2
     print("Result: {}".format(i))
